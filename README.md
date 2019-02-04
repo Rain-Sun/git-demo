@@ -1,2 +1,8 @@
+
 # README
-## contributor
+
+## Contributors
+
+ - Felipe
+ - Rain
+
